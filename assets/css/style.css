@@ -97,7 +97,9 @@ strong {
 }
 
 #profile img {
-    width: 400px;
+    width: 240px;
+    max-width: 100%;
+    height: auto;
     margin-bottom: 18px;
 }
 
